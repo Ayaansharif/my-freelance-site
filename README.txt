@@ -10,7 +10,7 @@ Features
 
 This website uses a full navigation that goes across the page horizontally only when your viewing it on a desktop and when you view it on a mobile phone the navigaton bar automatically turns in to a scroll spy, to do this i used bootstrap and a bit of jquary to smooth it out.
 
-h3 Features Left to Implement
+Features Left to Implement
 
 In the future i would like to implement a section called projects in his sction i would include all my projects i have created throught my coding career, i would also add a chat box so who ever has any question about my website for me can hae a chat over text with me all in my website.
 
